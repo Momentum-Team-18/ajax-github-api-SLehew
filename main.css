@@ -1,0 +1,26 @@
+.upperBox {
+    display: flex;
+    text-align: center;
+    min-height: 100%;
+    border: 2px solid black;
+}
+.urlContainer {
+    border: 2px solid black;
+    
+    
+}
+
+.gitName {
+    justify-content: flex-end;
+    text-align: end;
+    align-content: flex-end;
+}
+
+.gitUrl {
+    color: black;
+    
+}
+
+.lowerBox {
+    background-color: aqua;
+}
